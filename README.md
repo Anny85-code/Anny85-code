@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 I am a full stack dev looking to solve real world problems. I have a passion for learning new stuffs and sharing my knowledge with others as publicly as possible. I also like creating technologies to elevate people. Some technologies I enjoy working with includes JavaScript, Java, APIs + Markups. Feel free to reach out in case you just want to get in touch also...
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 
 
 [1]: https://twitter.com/Annyudo8?t=ZaF9C365AQpRBW2_I1J5pQ&s=09
