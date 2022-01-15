@@ -12,8 +12,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 
 ![Linkedin](https://user-images.githubusercontent.com/87186552/149636298-a25a4ce3-29be-414f-88b3-08c19dd5e007.png)
 ![twitter](https://user-images.githubusercontent.com/87186552/149636305-318742f5-8f93-4f77-8556-180c94f49879.png)
-![facebook](https://user-images.githubusercontent.com/87186552/149636386-073fd446-5978-4ba7-a500-023c178cda87.png)
-
+![facebk](https://user-images.githubusercontent.com/87186552/149639909-95aea838-10ca-402a-9445-1d80b1c58611.png)
 
 
 [1]:https://www.linkedin.com/in/aniekan-udo-665b65213
