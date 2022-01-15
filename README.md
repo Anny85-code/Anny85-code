@@ -20,7 +20,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 [2]:https://twitter.com/Annyudo8?t=ZaF9C365AQpRBW2_I1J5pQ&s=09
 [3]: https://web.facebook.com/aniekan.udo1
 
-<hr/>
+
 ### My Digital Garden ;
 
 - 💬 Ask me about : Facts on technologies, history and people
