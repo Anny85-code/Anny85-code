@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 
 I am a full stack dev looking to solve real world problems. I have a passion for learning new stuffs and sharing my knowledge with others as publicly as possible. I also like creating technologies to elevate people. Some technologies I enjoy working with includes JavaScript, Java, APIs + Markups. Feel free to reach out in case you just want to get in touch also...
 
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+
 [1]: http://i.imgur.com/tXSoThF.png 
 [2]: http://i.imgur.com/P3YfQoD.png 
 [3]: http://i.imgur.com/yCsTjba.png 
