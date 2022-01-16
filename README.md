@@ -8,7 +8,13 @@ Full-stack web developer available for adventure
 
 Here are some ideas to get you started:
 
-I am a full stack dev looking to solve real world problems. I have a passion for learning new stuffs and sharing my knowledge with others as publicly as possible. I also like creating technologies to elevate people. Some technologies I enjoy working with includes JavaScript, Java, APIs + Markups. Feel free to reach out in case you just want to get in touch also...
+I am a full stack dev looking to solve real world problems. I have a passion for learning new stuffs and sharing my knowledge with others as publicly as possible. I also like creating technologies to elevate people. Some technologies I enjoy working with includes JavaScript, Java, APIs + Markups.
+
+### My Digital Garden ;
+
+<p align="left">- 💬 Ask me about : Facts on technologies, history and people</p>
+
+<p align="left">- ⚡ Fun fact: "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." (Andrew Hunt, The Pragmatic Programmer).</p>
 
 <!-- ![Linkedin](https://user-images.githubusercontent.com/87186552/149636298-a25a4ce3-29be-414f-88b3-08c19dd5e007.png)
 ![twitter](https://user-images.githubusercontent.com/87186552/149636305-318742f5-8f93-4f77-8556-180c94f49879.png)
@@ -27,9 +33,9 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Anny85-code&show_icons=true&theme=merko" alt="Juliana" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=anny&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Anny" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Anny85-code&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Anny" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anny&layout=compact&theme=vue"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anny85-code&layout=compact&theme=vue"</p>
 
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
@@ -45,10 +51,6 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 <p align="center">You can check out my portfolio <a href="https://anny85-code.github.io/Portfolio-Microverse/" color="green">here</a></p>
 
 
-### My Digital Garden ;
 
-<p align="left">- 💬 Ask me about : Facts on technologies, history and people</p>
-
-<p align="left">- ⚡ Fun fact: "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." (Andrew Hunt, The Pragmatic Programmer).</p>
 
 
