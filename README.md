@@ -15,6 +15,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p align="left">- 💬 Ask me about : Facts on technologies, history and people</p>
 
 <p align="left">- ⚡ Fun fact: "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." (Andrew Hunt, The Pragmatic Programmer).</p>
+<hr />
 
 <!-- ![Linkedin](https://user-images.githubusercontent.com/87186552/149636298-a25a4ce3-29be-414f-88b3-08c19dd5e007.png)
 ![twitter](https://user-images.githubusercontent.com/87186552/149636305-318742f5-8f93-4f77-8556-180c94f49879.png)
