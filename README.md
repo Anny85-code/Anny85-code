@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 I am a full stack dev looking to solve real world problems. I have a passion for learning new stuffs and sharing my knowledge with others as publicly as possible. I also like creating technologies to elevate people. Some technologies I enjoy working with includes JavaScript, Java, APIs + Markups. Feel free to reach out in case you just want to get in touch also...
 
-![Linkedin](https://user-images.githubusercontent.com/87186552/149636298-a25a4ce3-29be-414f-88b3-08c19dd5e007.png)
+<!-- ![Linkedin](https://user-images.githubusercontent.com/87186552/149636298-a25a4ce3-29be-414f-88b3-08c19dd5e007.png)
 ![twitter](https://user-images.githubusercontent.com/87186552/149636305-318742f5-8f93-4f77-8556-180c94f49879.png)
 ![facebook](https://user-images.githubusercontent.com/87186552/149640152-0a1a7854-aa00-4a65-8676-96c6e23449d1.png)
 
@@ -18,7 +18,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 
 [1]:https://www.linkedin.com/in/aniekan-udo-665b65213
 [2]:https://twitter.com/Annyudo8?t=ZaF9C365AQpRBW2_I1J5pQ&s=09
-[3]: https://web.facebook.com/aniekan.udo1
+[3]: https://web.facebook.com/aniekan.udo1 -->
 
 
 <br>
@@ -42,13 +42,13 @@ href="https://twitter.com/Annyudo8?t=ZaF9C365AQpRBW2_I1J5pQ&s=09"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
 
-<p align="center">You can check out my portfolio <a href="https://https://github.com/Anny85-code/Anny85-code" color="green">here</a></p>
+<p align="center">You can check out my portfolio <a href="https://anny85-code.github.io/Portfolio-Microverse/" color="green">here</a></p>
 
 
 ### My Digital Garden ;
 
-- 💬 Ask me about : Facts on technologies, history and people
+<p align="left">- 💬 Ask me about : Facts on technologies, history and people</p>
 
-- ⚡ Fun fact: "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." (Andrew Hunt, The Pragmatic Programmer).
+<p align="left">- ⚡ Fun fact: "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." (Andrew Hunt, The Pragmatic Programmer).</p>
 
 
