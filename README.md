@@ -21,6 +21,30 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 [3]: https://web.facebook.com/aniekan.udo1
 
 
+<br>
+
+<h3 align="center">GitHub Statistics:</h3>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Anny85-code&show_icons=true&theme=merko" alt="Juliana" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=anny&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Anny" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anny&layout=compact&theme=vue"</p>
+
+<h3 align="center">Let's Connect 🤝</h3>
+<div align="center">
+<a target="_blank"
+href="https://www.linkedin.com/in/aniekan-udo-665b65213/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
+href="mailto:uaniekan@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+href="https://twitter.com/Annyudo8?t=ZaF9C365AQpRBW2_I1J5pQ&s=09"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<div/>
+
+<p align="center">You can check out my portfolio <a href="https://https://github.com/Anny85-code/Anny85-code" color="green">here</a></p>
+
+
 ### My Digital Garden ;
 
 - 💬 Ask me about : Facts on technologies, history and people
