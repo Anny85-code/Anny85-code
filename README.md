@@ -1,6 +1,7 @@
 ### Hi I'm Anny 👋
 <hr/>
-Full-stack developer available for adventure  ![oldkey](https://user-images.githubusercontent.com/87186552/149708490-c054380b-34bb-4ab7-ac2b-fc8e3c8f6a6c.jpeg)
+Full-stack developer available for adventure  
+![oldkey](https://user-images.githubusercontent.com/87186552/149708490-c054380b-34bb-4ab7-ac2b-fc8e3c8f6a6c.jpeg)
 
 <hr/>
 <!--
