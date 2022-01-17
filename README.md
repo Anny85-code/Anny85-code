@@ -3,9 +3,6 @@
 Full-stack developer available for adventure  
 <hr/>
 
-### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Aniekan Udo!
-
-![hell](./animae/Grand%20Re-opening%20Sale.gif)
 <!--
 **Anny85-code/Anny85-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
