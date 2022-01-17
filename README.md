@@ -1,8 +1,7 @@
 ### Hi I'm Anny 👋
 <hr/>
 Full-stack developer available for adventure  
-![oldkey](https://user-images.githubusercontent.com/87186552/149708490-c054380b-34bb-4ab7-ac2b-fc8e3c8f6a6c.jpeg)
-
+![oldkey](https://user-images.githubusercontent.com/87186552/149710632-267fef07-795b-4aae-9aa3-79d66c0f2f10.jpeg)
 <hr/>
 <!--
 **Anny85-code/Anny85-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
