@@ -1,12 +1,12 @@
 ### Hi I'm Anny 👋
 <hr/>
-Full-stack web developer available for adventure
+Full-stack developer available for adventure
 
-
+<hr/>
 <!--
 **Anny85-code/Anny85-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+
 
 I am a full stack dev looking to solve real world problems. I have a passion for learning new stuffs and sharing my knowledge with others as publicly as possible. I also like creating technologies to elevate people. Some technologies I enjoy working with includes JavaScript, Java, APIs + Markups.
 
