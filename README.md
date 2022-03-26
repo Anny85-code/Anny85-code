@@ -3,8 +3,9 @@
 <hr/>
  Full-stack developer available for adventure
 <hr/>
+##
 ![Profile badge](https://www.codewars.com/users/Anny85-code/badges/large)
-<hr/>
+##
 <!--
 **Anny85-code/Anny85-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
