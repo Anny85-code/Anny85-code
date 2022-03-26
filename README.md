@@ -21,9 +21,9 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <img src="https://profile-counter.glitch.me/Anny85-code/count.svg" />
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
-
+##
 ![Profile badge](https://www.codewars.com/users/Anny85-code/badges/large)
-
+##
 <h3>Languages</h3>
 <p>
    <a href="https://www.php.net/" target="_blank"> 
