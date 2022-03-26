@@ -1,7 +1,10 @@
 ### Hi I'm Anny 👋
 
 <hr/>
-Full-stack developer available for adventure  
+<div display="flex"; justify-content="space-between">
+<div> Full-stack developer available for adventure</div>  
+<div>![Profile badge](https://www.codewars.com/users/Anny85-code/badges/large)</div>
+</div>
 <hr/>
 
 <!--
