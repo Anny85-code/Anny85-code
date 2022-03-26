@@ -18,7 +18,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 
 <br />
 <h3> 👱 Visitors count </h3>
-<img src="https://profile-counter.glitch.me/Anny85-code/count.svg" />
+<img src="https://profile-counter.glitch.me/Anny85/count.svg" />
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
