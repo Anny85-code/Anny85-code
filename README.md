@@ -23,6 +23,8 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
+![Profile badge](https://www.codewars.com/users/brytebee/badges/large)
+
 <h3>Languages</h3>
 <p>
    <a href="https://www.php.net/" target="_blank"> 
