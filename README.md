@@ -3,8 +3,7 @@
 <hr/>
  Full-stack developer available for adventure
 <hr/>
-![Profile badge](https://www.codewars.com/users/brytebee/badges/large)
-<hr/>
+
 <!--
 **Anny85-code/Anny85-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -23,7 +22,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
-![Profile badge](https://www.codewars.com/users/brytebee/badges/large)
+![Profile badge](https://www.codewars.com/users/Anny85-code/badges/large)
 
 <h3>Languages</h3>
 <p>
