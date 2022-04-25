@@ -1,7 +1,7 @@
 ### Hi I'm Anny 👋
 
 <hr/>
- Full-stack developer available for adventure   ![Profile badge](https://www.codewars.com/users/Anny85/badges/large)
+ Full-stack developer available for adventure
 <hr/>
 
 <!--
@@ -22,7 +22,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
-
+![Profile badge](https://www.codewars.com/users/Anny85/badges/large)
 
 
 <h3>Languages</h3>
