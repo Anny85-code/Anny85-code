@@ -1,7 +1,7 @@
-### Hi I'm Anny 👋
+### Hi, I'm Anny <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="40" height="40"/>
 
 <hr/>
- Full-stack developer available for adventure
+ Full-stack developer available for adventure   
 <hr/>
 
 <!--
@@ -14,7 +14,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p align="left">- 💬 Ask me about : Facts on technologies, history and people</p>
 
 <p align="left">- ⚡ Fun fact: Every piece of knowledge must have a single, unambiguous, authoritative representation within a system (Andrew Hunt & David Thomas, "The Pragmatic Programmer").</p>
-
+<hr/>
 
 <br />
 <h3> 👱 Visitors count </h3>
@@ -25,6 +25,8 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 ![Profile badge](https://www.codewars.com/users/Anny85/badges/large)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=A+tech+enthusiast+with+over+2+years+of+software+development+experience.;I+build+cutting+edge+business+logic.;Always+happy+and+open+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
+>>>>>>> 45ca9cc9b23c4eb5dd1182d583836d072ba9a84e
 <h3>Languages</h3>
 <p>
    <a href="https://www.php.net/" target="_blank"> 
@@ -186,3 +188,4 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 <div/>
 
 <p align="center">You can check out my portfolio <a href="https://anny85-code.github.io/Portfolio-Microverse/" color="green">here</a></p>
+<p align="center">🤝 Thank you! 🤝</p>
