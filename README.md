@@ -213,7 +213,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 href="https://twitter.com/Annyudo8?t=ZaF9C365AQpRBW2_I1J5pQ&s=09"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank"
-href="https://api.whatsapp.com/send?phone=+2348032668874&text&app_absent=0"><img
+href="https://api.whatsapp.com/send?phone=+2348181740024&text&app_absent=0"><img
 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 <a target="_blank"
 href="https://medium.com/@aniekaudo"><img
