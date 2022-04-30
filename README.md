@@ -28,7 +28,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <h3>Education</h3>
 <p>
   <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    <img src="https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=microverse&logoColor=61DAFB" 
       alt="microverse"/> 
   </a>
  <a href="https://www.php.net/" target="_blank"> 
