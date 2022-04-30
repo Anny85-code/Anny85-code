@@ -26,6 +26,29 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=A+tech+enthusiast+with+over+2+years+of+software+development+experience.;I+build+cutting+edge+business+logic.;Always+happy+and+open+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
+<h3>Education</h3>
+<p>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=microverse&logoColor=61DAFB" 
+      alt="microverse"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" 
+      alt="freecodecamp"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" 
+      alt="udemy"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" 
+      alt="scrimba"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" 
+      alt="codecademy"/> 
+  </a>
+</p>
 
 <h3>Languages</h3>
 <p>
@@ -193,7 +216,9 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 <a target="_blank"
 href="https://api.whatsapp.com/send?phone=+2348032668874&text&app_absent=0"><img
 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+<a target="_blank"
+href="https://medium.com/@aniekaudo"><img
+src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 <div/>
-
 <p align="center">You can check out my portfolio <a href="https://anny85-code.github.io/Portfolio-Microverse/" color="green">here</a></p>
 <p align="center">🤝 Thank you! 🤝</p>
