@@ -30,8 +30,8 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <h3>Languages</h3>
 <p>
    <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" 
-      alt="php"/> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+      alt="react"/> 
   </a>
   <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" 
@@ -90,6 +90,11 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 </p> 
 <h3>Database</h3>
 <p>
+ <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgres"/>
+  </a>
+ 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/>
@@ -185,6 +190,9 @@ href="mailto:uaniekan@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
 href="https://twitter.com/Annyudo8?t=ZaF9C365AQpRBW2_I1J5pQ&s=09"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank"
+href="https://api.whatsapp.com/send?phone=+2348032668874&text&app_absent=0"><img
+src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 <div/>
 
 <p align="center">You can check out my portfolio <a href="https://anny85-code.github.io/Portfolio-Microverse/" color="green">here</a></p>
