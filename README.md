@@ -25,6 +25,30 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 ![Profile badge](https://www.codewars.com/users/Anny85/badges/large)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=A+tech+enthusiast+with+over+2+years+of+software+development+experience.;I+build+cutting+edge+business+logic.;Always+happy+and+open+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
+<h3>Education</h3>
+<p>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=react&logoColor=61DAFB" 
+      alt="microverse"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" 
+      alt="freecodecamp"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" 
+      alt="udemy"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white" 
+      alt="scrimba"/> 
+  </a>
+ <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" 
+      alt="codecademy"/> 
+  </a>
+</p>
+
 <h3>Languages</h3>
 <p>
    <a href="https://www.php.net/" target="_blank"> 
