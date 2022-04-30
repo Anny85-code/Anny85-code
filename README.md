@@ -215,7 +215,9 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 <a target="_blank"
 href="https://api.whatsapp.com/send?phone=+2348032668874&text&app_absent=0"><img
 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+<a target="_blank"
+href="https://medium.com/@aniekaudo"><img
+src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 <div/>
-
 <p align="center">You can check out my portfolio <a href="https://anny85-code.github.io/Portfolio-Microverse/" color="green">here</a></p>
 <p align="center">🤝 Thank you! 🤝</p>
