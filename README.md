@@ -26,7 +26,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=A+tech+enthusiast+with+over+2+years+of+software+development+experience.;I+build+cutting+edge+business+logic.;Always+happy+and+open+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
->>>>>>> 45ca9cc9b23c4eb5dd1182d583836d072ba9a84e
+
 <h3>Languages</h3>
 <p>
    <a href="https://www.php.net/" target="_blank"> 
