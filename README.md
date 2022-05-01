@@ -78,7 +78,9 @@ I am a full stack dev looking to solve real world problems. I have a passion for
   </a>
 </p>
 <p>
-<h3>Frontend</h3>
+ <h3>Frameworks</h3>
+ <ul>
+ <li><h4>Frontend</h4></li>
 <p>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
@@ -104,13 +106,14 @@ I am a full stack dev looking to solve real world problems. I have a passion for
   </a>
 </p>
 <p>
-<h3>Backend</h3>
+<li><h4>Backend</h4></li>
 <p>
     <a href="https://rubyonrails.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
   </a>
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p> 
+ </ul>
 <h3>Database</h3>
 <p>
  <a href="https://www.mysql.com/" target="_blank"> 
