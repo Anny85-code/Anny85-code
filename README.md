@@ -22,7 +22,13 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
+![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53198291)
+
 ![Profile badge](https://www.codewars.com/users/Anny85/badges/large)
+
+![Profile badge](https://github.com/hackerrank-badges/hackerrank-badges.github.io/raw/master/images/hackerrank_logo.png)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=A+tech+enthusiast+with+over+2+years+of+software+development+experience.;I+build+cutting+edge+business+logic.;Always+happy+and+open+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
 <h3>Education</h3>
