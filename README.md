@@ -22,7 +22,10 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
-![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53198291)
+## Microverse Experience
+Full-stack | Ruby on Rails | Ruby | React | Javascript | Html and Css
+:---: | :---: | :---: | :---: | :---: | :---:
+![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53198291) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52034083) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50177545) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857907) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46000289) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44190973)
 
 ![Profile badge](https://www.codewars.com/users/Anny85/badges/large)
 
