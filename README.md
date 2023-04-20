@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif"  width="100%" height="320px">
+
 ### Hi, I'm Anny <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="40" height="40"/>
 
 <hr/>
