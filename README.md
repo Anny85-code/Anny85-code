@@ -22,7 +22,15 @@ I am a full stack dev looking to solve real world problems. I have a passion for
 <p>
 <h2><u><b>Knowledge Base</b></u></h2>
 
+## Microverse Experience
+Full-stack | Ruby on Rails | Ruby | React/Redux | Javascript | Html and Css
+:---: | :---: | :---: | :---: | :---: | :---:
+![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53198291) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/52034083) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50177545) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47857907) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/46000289) | ![Profile badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/44190973)
+
 ![Profile badge](https://www.codewars.com/users/Anny85/badges/large)
+
+![Profile badge](https://github.com/hackerrank-badges/hackerrank-badges.github.io/raw/master/images/hackerrank_logo.png)
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Popins&duration=4700&color=E8A44FED&lines=A+tech+enthusiast+with+over+2+years+of+software+development+experience.;I+build+cutting+edge+business+logic.;Always+happy+and+open+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
@@ -223,5 +231,5 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 href="https://medium.com/@aniekaudo"><img
 src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 <div/>
-<p align="center">You can check out my portfolio <a href="https://anny85-code.github.io/Portfolio-Microverse/" color="green">here</a></p>
+<p align="center">You can check out my portfolio <a href="https://portfolio-latest-brown.vercel.app/" color="green">here</a></p>
 <p align="center">🤝 Thank you! 🤝</p>
