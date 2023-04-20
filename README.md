@@ -233,5 +233,5 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 href="https://medium.com/@aniekaudo"><img
 src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 <div/>
-<p align="center">You can check out my portfolio <a href="https://portfolio-latest-brown.vercel.app/" color="green">here</a></p>
+<p align="center">You can check out my portfolio <a href="www.annyudo.me" color="green">here</a></p>
 <p align="center">🤝 Thank you! 🤝</p>
